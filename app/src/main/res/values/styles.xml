@@ -1,0 +1,21 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:textViewStyle">@style/TextView</item>
+    </style>
+
+    <style name="TextView">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TextViewLabel">
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginBottom">2dp</item>
+        <item name="android:textSize">9pt</item>
+    </style>
+
+</resources>
