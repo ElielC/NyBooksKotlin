@@ -1,0 +1,2 @@
+nyt.api.key.books=puthereyourapikey
+nyt.api.url.books=https://api.nytimes.com/svc/books/v3/
